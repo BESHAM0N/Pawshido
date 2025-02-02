@@ -29,7 +29,7 @@ namespace Models
 
         public void Heal(int amount)
         {
-            throw new NotImplementedException();
+            CurrentHealth += amount;
         }
 
         public void Death()
@@ -53,7 +53,8 @@ namespace Models
         
         public void OnAttack(IEntity enemy)
         {
-            throw new NotImplementedException();
+            
         }
+        
     }
 }
