@@ -1,0 +1,16 @@
+diff a/Pawshido/Assets/Scripts/Game/EntryPoint.cs b/Pawshido/Assets/Scripts/Game/EntryPoint.cs	(rejected hunks)
+@@ -1,12 +1,12 @@
+ using UnityEngine;
+ 
+ namespace Game
+ {
+     public class EntryPoint : MonoBehaviour
+     {
+         private void Awake()
+         {
+-            Debug.Log("Starting Game in Awake");
++            Debug.Log("Starting Game in Awake7676767");
+         }
+     }
+ }
+\ No newline at end of file
