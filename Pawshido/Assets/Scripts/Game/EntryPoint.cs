@@ -7,6 +7,8 @@ namespace Game
         private void Awake()
         {
             Debug.Log("Starting Game in Awake");
+            Debug.Log("Starting Game in Awake");
+            Debug.Log("Starting Game in Awake");
         }
     }
 }
